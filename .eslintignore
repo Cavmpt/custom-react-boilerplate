@@ -1,0 +1,11 @@
+!**/.eslintrc*
+node_modules*
+webpack.config.js
+dist
+*.svg
+*.ico
+*.json
+.gitignore
+*.md
+*.log
+*.lock
