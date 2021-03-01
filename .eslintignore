@@ -1,7 +1,7 @@
 !**/.eslintrc*
 node_modules*
-webpack.config.js
 dist
+build/**/*
 *.svg
 *.ico
 *.json
@@ -9,3 +9,9 @@ dist
 *.md
 *.log
 *.lock
+build
+config
+
+webpack.config.js
+webpack.dev.js
+jest.config.js
